@@ -1,4 +1,4 @@
-Hello Greetings! My name is James Bernard Lozada,a second year student currently enrolled in Technological Institute of the Philippines,I am currently taking the course of Bachelor of Science in Industrial Engineering
+Hello Greetings! My name is <span style="color: blue;">James Bernard Lozada</span> ,a second year student currently enrolled in Technological Institute of the Philippines,I am currently taking the course of Bachelor of Science in Industrial Engineering
 
 I am a fan of Marvel Cinematic Universe especially The Avengers,I have a hobby of playing games with my phone,and i also do physical activities like ball games and I myself is a physically fit person
 
